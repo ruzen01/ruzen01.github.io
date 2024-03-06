@@ -1,5 +1,12 @@
+body {
+    font: 18px/1.5 sans-serif;
+    
+    color: #181818;
+    background-color: #181818;
+  }
+
 .image {
     width: 500px;
     height: 258px;
-    background-image: url("../media/moth.jpg");
+    background-image: url("https://raw.githubusercontent.com/ruzen01/ruzen01.github.io/main/media/moth.jpg");
 }
